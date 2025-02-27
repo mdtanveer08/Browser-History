@@ -113,4 +113,5 @@ The app must have the following functionalities
 
 
 Check the Output :
-ccbp publish RJSCPK3BCW mdtanveer08.ccbp.tech
+https://mdtanveer08.ccbp.tech/
+
