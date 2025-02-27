@@ -1,0 +1,31 @@
+.history {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+
+.domain-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.domain-details {
+  display: flex;
+  align-items: center;
+}
+
+.domain-logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
